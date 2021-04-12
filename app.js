@@ -78,7 +78,19 @@
 
 // ********************************************************************************************************
 
+// var total = 980
+// var obtained = 804
+// var percentage =  obtained / total  * 100
+// document.write (percentage)
 
+// ******************************************************************************************************
+
+var dollar = 104.80
+var totaldollars = 10 
+var riyal = 28
+var totalriyals = 25
+var totalpkr = dollar * totaldollars + riyal * totalriyals
+document.write(totalpkr)
 
 
 
